@@ -1,0 +1,11 @@
+First Name : rivindu
+Last Name : navanjana
+Nationality : sri lanka
+Adress : colombo
+City : piliyandala
+Car license : 987452
+Arrival date : 12.12.2020
+Phone Number : 0767332234
+Email Adress : rivindunavanjana2000@gmail.com
+Guests : 10
+Payment Method : card

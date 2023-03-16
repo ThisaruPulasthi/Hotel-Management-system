@@ -1,0 +1,18 @@
+INVOICE
+
+The Grand Hotel
+first name : thissa
+Last Name : xzz
+address : czxzc
+arival date : zxczxczc
+deparure date : 21321
+phonr no : 123131
+
+2021-07-27   18:54
+==================
+single room price : 2000
+breakfast no2 price : 1400
+lunch no3 price : 1000
+dinner no1 price : 1800
+
+Thanks for choosing - The Grand Hotel.
